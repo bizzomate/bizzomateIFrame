@@ -1,17 +1,19 @@
 ## BizzomateIFrame
-[Pluggable IFrame widget]
+A simple pluggable iframe widget.
 
 ## Features
-[feature highlights]
+- Designed for Mx9
+- Supports srcdoc to load HTML directly from an attribute / expression
 
 ## Usage
-[step by step instructions]
-
-## Demo project
-[link to sandbox]
+- Add widget to the page
+- Fill in Source URL / DOC
+- Specify width and height (optional)
+- Specify advanced features (highly optional)
+- Go!
 
 ## Issues, suggestions and feature requests
-[link to GitHub issues]
+https://github.com/bizzomate/bizzomateIFrame
 
 ## Development and contribution
 
